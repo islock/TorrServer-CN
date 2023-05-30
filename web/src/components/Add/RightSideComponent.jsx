@@ -154,7 +154,7 @@ export default function RightSideComponent({
               variant='contained'
               size='small'
             >
-              {posterSearchLanguage === 'en' ? 'EN' : 'CN'}
+              {posterSearchLanguage === 'cn' ? 'CN' : 'EN'}
             </PosterLanguageSwitch>
           )}
 
