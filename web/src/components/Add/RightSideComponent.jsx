@@ -143,7 +143,7 @@ export default function RightSideComponent({
           {currentLang !== 'en' && (
             <PosterLanguageSwitch
               onClick={() => {
-                const newLanguage = posterSearchLanguage === 'en' ? 'cn' : 'en'
+                const newLanguage = posterSearchLanguage === 'cn' ? 'en' : 'cn'
                 setPosterSearchLanguage(newLanguage)
                 posterSearch(isCustomTitleEnabled ? title : originalTorrentTitle ? parsedTitle : title, newLanguage, {
                   shouldRefreshMainPoster: true,
