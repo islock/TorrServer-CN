@@ -34,7 +34,7 @@
   "CopyHash": "复制哈希",
   "CopyLink": "复制链接",
   "Data": "数据",
-  "DebugMode": "优先下载",
+  "DebugMode": "优先级标记",
   "Delete": "删除",
   "DeleteTorrent?": "删除种子？",
   "DeleteTorrents?": "删除所有种子？",
@@ -86,7 +86,7 @@
       "AddToHomeScreen":"添加到主屏幕"
     }
   },
-  "Releases": "TorrServer版本",
+  "Releases": "TorrServer发布",
   "RemoveAll": "全部删除",
   "RemoveViews": "移除视图状态",
   "Resolution": "完成",
